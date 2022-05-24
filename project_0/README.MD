@@ -45,3 +45,4 @@
 ### Выводы:
 ....
 
+:arrow_up:[к оглавлению](https://github.com/iruzhentsev/sf.data_science_1/blob/main/project_0/README.MD#Оглавление)
