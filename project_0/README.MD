@@ -2,10 +2,15 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/iruzhentsev/sf.data_science_1/blob/main/project_0/README.MD#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/iruzhentsev/sf.data_science_1/blob/main/project_0/README.MD#Какой-кейс-решаем)
+
 [3. Краткая информация о данных](https://github.com/iruzhentsev/sf.data_science_1/blob/main/project_0/README.MD#Краткая-информация-о-данных)
+
 [4. Этапы работы над проектом](https://github.com/iruzhentsev/sf.data_science_1/blob/main/project_0/README.MD#Этапы-работы-над-проектом)
+
 [5. Результаты](https://github.com/iruzhentsev/sf.data_science_1/blob/main/project_0/README.MD#Результаты)
+
 [6. Выводы](https://github.com/iruzhentsev/sf.data_science_1/blob/main/project_0/README.MD#Выводы)
 
 
