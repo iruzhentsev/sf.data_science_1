@@ -4,8 +4,8 @@ From the [Skillfactory Data Science course] (https://skillfactory.ru/data-scienc
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число] (https://github.com/iruzhentsev/sf.data_science_1/tree/main/project_0)
+* [Проект 0. Игра: Угадай число] (./project_0)
 * [Проект 1. Анализ вакансий на hh.ru] (____)
-* [Проект 2. ____________] (____)
+* [Проект 2. Анализ вакансий Data Science на HeadHunter] (./project_2/Skillfactory_Project_2_Headhunter_Руженцев.ipynb)
 
 ## Ссылки на резюме
