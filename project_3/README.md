@@ -73,9 +73,3 @@
 - `submissions_RFR.csv` – файл для отправки на Kaggle.
 - `requirements.txt` – список зависимостей.
 - `README.md` – этот файл.
-
-## Как запустить
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/ваш_username/booking-rating-simple.git
